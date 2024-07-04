@@ -19,7 +19,7 @@ export default function Home() {
 
                     <div className="text-center">
                         <div className="flex justify-center mb-16">
-                            <Image src="/image/home-img.png" alt="Image" width={100} height={100}/>
+                            <Image src="/image/image.svg" alt="Image" width={100} height={100}/>
                         </div>
 
                         <h6 className="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">Bishal Karki</h6>
@@ -45,19 +45,19 @@ export default function Home() {
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                         <div className="bg-gray-50 px-8 py-10 rounded-md">
                             <div className="w-20 py-6 flex justify-center bg-gray-100 rounded-md mb-4">
-                                <Activity/>
+                                <Activity className="text-black"/>
                             </div>
 
                             <h4 className="font-medium text-gray-700 text-lg mb-4">High experience</h4>
 
-                            <p className="font-normal text-gray-500 text-md">Lorem ipsum dolor sit amet,
-                                consectetur <br/> adipiscing elit, sed do eiusmod tempor <br/> incididunt ut labore et
-                                dolore magna aliqua.</p>
+                            <p className="font-normal text-gray-500 text-md">Deep expertise in multiple programming
+                                languages and frameworks,<br/> with a focus on clean, scalable, <br/> and efficient
+                                code.</p>
                         </div>
 
                         <div className="bg-gray-50 px-8 py-10 rounded-md">
                             <div className="w-20 py-6 flex justify-center bg-gray-100 rounded-md mb-4">
-                                <Codesandbox />
+                                <Codesandbox className="text-black"/>
                             </div>
 
                             <h4 className="font-medium text-gray-700 text-lg mb-4">Useful sandboxes</h4>
@@ -69,7 +69,7 @@ export default function Home() {
 
                         <div className="bg-gray-50 px-8 py-10 rounded-md">
                             <div className="w-20 py-6 flex justify-center bg-gray-100 rounded-md mb-4">
-                                <Coffee />
+                                <Coffee className="text-black"/>
                             </div>
 
                             <h4 className="font-medium text-gray-700 text-lg mb-4">Success side projects</h4>
@@ -444,29 +444,33 @@ export default function Home() {
                         <div className="flex items-center justify-center space-x-8">
                             <a href="#"
                                className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                                <Twitter className="text-gray-500 hover:text-gray-800 transition ease-in-out duration-500" />
+                                <Twitter
+                                    className="text-gray-500 hover:text-gray-800 transition ease-in-out duration-500"/>
                             </a>
-
 
 
                             <a href="#"
                                className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                               <Facebook  className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500" />
+                                <Facebook
+                                    className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500"/>
                             </a>
 
                             <a href="#"
                                className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                                <Codepen  className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500" />
+                                <Codepen
+                                    className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500"/>
                             </a>
 
                             <a href="#"
                                className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                                <AtSign className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500" />
+                                <AtSign
+                                    className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500"/>
                             </a>
 
                             <a href="#"
                                className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                               <Instagram className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500" />
+                                <Instagram
+                                    className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500"/>
                             </a>
                         </div>
                     </div>
