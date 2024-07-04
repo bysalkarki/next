@@ -51,7 +51,8 @@ export default function Home() {
                             Technologies</h4>
 
                         <p className="font-normal text-gray-500 text-md">As a backend developer, my foundation
-                            lies in deep expertise with backend technologies. This means I'm not just familiar with a
+                            lies in deep expertise with backend technologies. This means I&apos;m not just familiar with
+                            a
                             single language, but comfortable navigating the intricacies of databases, server-side
                             scripting, APIs, and frameworks that power the core functionality of web applications. </p>
                     </div>
@@ -115,7 +116,7 @@ export default function Home() {
 
                                 <p className="font-normal text-gray-500 text-sm md:text-base">At Bookmundi, I played
                                     a key role as a programmer, crafting the code behind their complex booking
-                                    mechanics and seamless chat functionalities.<br/> I wasn't just limited to
+                                    mechanics and seamless chat functionalities.<br/> I wasn&apos;t just limited to
                                     bookings
                                     though; I actively contributed to developing various features that make
                                     Bookmundi the platform it is today. This experience honed my skills in tackling
@@ -214,8 +215,7 @@ export default function Home() {
                         do not measure your skills in <br/> percentages!</h1>
 
                     <p className="font-medium text-gray-700 text-xs md:text-base">In my many years of experience, I
-                        use @laravel for backend projects and @vuejs for <br/> front-end projects. I’m an avid
-                        programmer, so I create designs based on the <br/> weekend @figmadesign.</p>
+                        use @laravel for backend projects and @vuejs/@reactjs for <br/> front-end projects.</p>
                 </div>
 
             </div>
