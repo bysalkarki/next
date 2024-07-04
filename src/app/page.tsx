@@ -47,11 +47,15 @@ export default function Home() {
                             <Activity className="text-black"/>
                         </div>
 
-                        <h4 className="font-medium text-gray-700 text-lg mb-4">High experience</h4>
+                        <h4 className="font-medium text-gray-700 text-lg mb-4">Rock-Solid Expertise in Backend
+                            Technologies</h4>
 
-                        <p className="font-normal text-gray-500 text-md">Deep expertise in multiple programming
-                            languages and frameworks,<br/> with a focus on clean, scalable, <br/> and efficient
-                            code.</p>
+                        <p className="font-normal text-gray-500 text-md">As a senior backend developer, my foundation
+                            lies in deep expertise with backend technologies. This means I'm not just familiar with a
+                            single language, but comfortable navigating the intricacies of databases, server-side
+                            scripting, APIs, and frameworks that power the core functionality of web applications. I can
+                            confidently design, build, and maintain robust backend systems that ensure smooth data
+                            handling, efficient processing, and secure interactions with the user interface</p>
                     </div>
 
                     <div className="bg-gray-50 px-8 py-10 rounded-md">
@@ -59,11 +63,14 @@ export default function Home() {
                             <Codesandbox className="text-black"/>
                         </div>
 
-                        <h4 className="font-medium text-gray-700 text-lg mb-4">Useful sandboxes</h4>
+                        <h4 className="font-medium text-gray-700 text-lg mb-4">Architectural Prowess and Scalability
+                            Focus:</h4>
 
-                        <p className="font-normal text-gray-500 text-md">Lorem ipsum dolor sit amet,
-                            consectetur <br/> adipiscing elit, sed do eiusmod tempor <br/> incididunt ut labore et
-                            dolore magna aliqua.</p>
+                        <p className="font-normal text-gray-500 text-md">My experience has equipped me with the ability
+                            to think beyond just writing code. I can architect and design complex backend systems,
+                            ensuring scalability and maintainability as the application grows. I consider factors like
+                            data volume, user traffic, and future needs when building the backend, implementing design
+                            patterns and best practices to create a system that can adapt and evolve seamlessly.</p>
                     </div>
 
                     <div className="bg-gray-50 px-8 py-10 rounded-md">
@@ -71,11 +78,15 @@ export default function Home() {
                             <Coffee className="text-black"/>
                         </div>
 
-                        <h4 className="font-medium text-gray-700 text-lg mb-4">Success side projects</h4>
+                        <h4 className="font-medium text-gray-700 text-lg mb-4">Problem-Solving Ninja and Debugging
+                            Master:</h4>
 
-                        <p className="font-normal text-gray-500 text-md">Lorem ipsum dolor sit amet,
-                            consectetur <br/> adipiscing elit, sed do eiusmod tempor <br/> incididunt ut labore et
-                            dolore magna aliqua.</p>
+                        <p className="font-normal text-gray-500 text-md">Inevitably, things go wrong. What sets senior
+                            backend developers apart is our problem-solving prowess. I can meticulously analyze complex
+                            issues, trace errors through intricate code paths, and identify root causes efficiently. My
+                            debugging skills are honed, allowing me to not only fix problems but also implement
+                            preventative measures to ensure stability and reliability in the backend systems I
+                            build.</p>
                     </div>
                 </div>
 
