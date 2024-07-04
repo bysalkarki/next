@@ -1,5 +1,5 @@
 import Image from "next/image";
-import {Activity, AtSign, Codepen, Codesandbox, Coffee, Facebook, Instagram, Twitter} from "react-feather";
+import {Activity, AtSign, Codepen, Codesandbox, Coffee, Facebook, GitHub, Instagram, Twitter} from "react-feather";
 
 export default function Home() {
     return <main className="bg-gray-100">
@@ -316,32 +316,21 @@ export default function Home() {
                         new client work but feel free to contact me for any <br/> other inquiries.</p>
 
                     <div className="flex items-center justify-center space-x-8">
-                        <a href="#"
-                           className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                            <Twitter
-                                className="text-gray-500 hover:text-gray-800 transition ease-in-out duration-500"/>
-                        </a>
 
-
-                        <a href="#"
+                        <a href="https://github.com/bysalkarki/" target="_blank"
                            className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                            <Facebook
+                            <GitHub
                                 className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500"/>
                         </a>
 
-                        <a href="#"
-                           className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-                            <Codepen
-                                className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500"/>
-                        </a>
 
-                        <a href="#"
+                        <a href="email:bishalkarki201@gmail.com"
                            className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
                             <AtSign
                                 className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500"/>
                         </a>
 
-                        <a href="#"
+                        <a href="https://www.instagram.com/bysal_karki/" target="_blank"
                            className="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
                             <Instagram
                                 className="text-gray-500 hover:text-gray-700 transition ease-in-out duration-500"/>
