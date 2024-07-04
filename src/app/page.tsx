@@ -23,7 +23,7 @@ export default function Home() {
 
                     <h6 className="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">Bishal Karki</h6>
 
-                    <h1 className="font-normal text-gray-900 text-4xl md:text-7xl leading-none mb-8">Senior Backend
+                    <h1 className="font-normal text-gray-900 text-4xl md:text-7xl leading-none mb-8">Backend
                         Developer</h1>
 
                     <p className="font-normal text-gray-600 text-md md:text-xl mb-16">I have a passion for software.
@@ -50,12 +50,10 @@ export default function Home() {
                         <h4 className="font-medium text-gray-700 text-lg mb-4">Rock-Solid Expertise in Backend
                             Technologies</h4>
 
-                        <p className="font-normal text-gray-500 text-md">As a senior backend developer, my foundation
+                        <p className="font-normal text-gray-500 text-md">As a backend developer, my foundation
                             lies in deep expertise with backend technologies. This means I'm not just familiar with a
                             single language, but comfortable navigating the intricacies of databases, server-side
-                            scripting, APIs, and frameworks that power the core functionality of web applications. I can
-                            confidently design, build, and maintain robust backend systems that ensure smooth data
-                            handling, efficient processing, and secure interactions with the user interface</p>
+                            scripting, APIs, and frameworks that power the core functionality of web applications. </p>
                     </div>
 
                     <div className="bg-gray-50 px-8 py-10 rounded-md">
@@ -68,9 +66,9 @@ export default function Home() {
 
                         <p className="font-normal text-gray-500 text-md">My experience has equipped me with the ability
                             to think beyond just writing code. I can architect and design complex backend systems,
-                            ensuring scalability and maintainability as the application grows. I consider factors like
-                            data volume, user traffic, and future needs when building the backend, implementing design
-                            patterns and best practices to create a system that can adapt and evolve seamlessly.</p>
+                            ensuring scalability and maintainability as the application grows.I can
+                            confidently design, build, and maintain robust backend systems that ensure smooth data
+                            handling, efficient processing, and secure interactions with the user interface.</p>
                     </div>
 
                     <div className="bg-gray-50 px-8 py-10 rounded-md">
@@ -81,8 +79,8 @@ export default function Home() {
                         <h4 className="font-medium text-gray-700 text-lg mb-4">Problem-Solving Ninja and Debugging
                             Master:</h4>
 
-                        <p className="font-normal text-gray-500 text-md">Inevitably, things go wrong. What sets senior
-                            backend developers apart is our problem-solving prowess. I can meticulously analyze complex
+                        <p className="font-normal text-gray-500 text-md">Inevitably, when things go wrong, I can
+                            meticulously analyze complex
                             issues, trace errors through intricate code paths, and identify root causes efficiently. My
                             debugging skills are honed, allowing me to not only fix problems but also implement
                             preventative measures to ensure stability and reliability in the backend systems I
